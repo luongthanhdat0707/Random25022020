@@ -29,5 +29,7 @@ public class MainActivity extends AppCompatActivity {
 //        int b= 6;
 //        int value= Math.max(a,b);
 //        Log.d("BBB",String.valueOf(value));
+        double value = Math. random() *6;
+        Log.d("BBB",String.valueOf(value));
     }
 }
